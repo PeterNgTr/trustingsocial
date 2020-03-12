@@ -1,0 +1,16 @@
+{
+  "name": "trustingsocial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "codeceptjs": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "codeceptjs run"
+  },
+  "author": "peter.nguyentr@gmail.com",
+  "license": "ISC"
+}
